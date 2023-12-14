@@ -14,6 +14,7 @@ while(lastIndex>=pos){
     for(int i=0;i< size+1;i++){
         cout <<"my array at "<< i <<" is: "<< arr[i]<<endl;
     }
+    
     cout <<"Delete"<<endl;
     lastIndex=5;
     while(pos<lastIndex){
