@@ -3,7 +3,8 @@
 using namespace std;
 
 void merge(int a[], int lb, int mid, int ub) {
-    int i = lb;e input array (n) i
+    int i = lb;
+    
     int j = mid + 1;
     int k = lb;
     int b[10];
